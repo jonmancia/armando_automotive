@@ -6,3 +6,5 @@ Website Contains:
   Pricing
   Affiliate
   Contact Us
+
+&copy Jonathan Mancia
